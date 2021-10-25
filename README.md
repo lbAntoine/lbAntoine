@@ -62,7 +62,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbAntoine&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lbAntoine&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="lbantoine" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lbantoine&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="lbantoine" /></p>
 
 </details>
 
