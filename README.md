@@ -50,18 +50,20 @@
 
 ---
 
-<!-- <details>
-  <summary>:zap: Recent GitHub Activity</summary> -->
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<!-- </details> -->
+</details>
 
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary> -->
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-<!-- </details> -->
+  [![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbAntoine&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
 
 [website]: https://dev.to/tomatowizard
 [twitter]: https://twitter.com/tomato_wizard
