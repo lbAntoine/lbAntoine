@@ -62,8 +62,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lbAntoine&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="lbantoine" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lbantoine&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="lbantoine" /></p>
+  <p><img align="left" src="https://readme-stats.herokuapp.com/api?username=lbAntoine&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="lbantoine" /></p>
+  <p><img align="left" src="https://readme-stats.herokuapp.com/api/top-langs?username=lbantoine&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="lbantoine" /></p>
 
 </details>
 
