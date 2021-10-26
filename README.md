@@ -28,6 +28,7 @@
 <img align="left" alt="Typescript" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
 <img align="left" alt="Vuejs" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/langfr-220px-Vue.js_Logo_2.svg.png" />
 <img align="left" alt="Node.js" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<br>
 <img align="left" alt="Python" width="20px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />
 <img align="left" alt="MySQL" width="20px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" />
 <img align="left" alt="MongoDB" width="20px" src="https://img.icons8.com/color/452/mongodb.png" />
