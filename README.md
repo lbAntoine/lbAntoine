@@ -1,5 +1,5 @@
-### Hi bonjour, I'm [Antoine][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
-<br>
+### Hi bonjour, I'm [Antoine][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 
 ### **Connect with me**:
 
@@ -28,6 +28,8 @@
 <img align="left" alt="Typescript" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
 <img align="left" alt="Vuejs" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/langfr-220px-Vue.js_Logo_2.svg.png" />
 <img align="left" alt="Node.js" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+<br>
 <br>
 
 <img align="left" alt="Python" width="20px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />
