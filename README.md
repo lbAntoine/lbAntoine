@@ -1,41 +1,41 @@
-### Hi bonjour, I'm [Antoine][website] 👋
+### Hi bonjour, I'm [Antoine][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
 <br>
+
+### **Connect with me**:
+
+[<img align="left" alt="lbAntoine | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536424.png?token=exp=1635191822~hmac=6056e65dd4411e8e954346f714481972" />][twitter]
+[<img align="left" alt="lbAntoine | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1635191790~hmac=378905ed497a251d9346901d8b4517cd" />][linkedin]
 <a href="https://dev.to/tomatowizard" target="_blank"><img alt="dev.to" src="https://img.shields.io/badge/MY%20DEV.TO%20PAGE-GO-green?style=for-the-badge&logo=dev.to" /></a>
 
 <br>
 
-## I'm a junior web developer, tech enthousiast and art lover!
+## **I'm a junior web developer, tech enthousiast and art lover!**
 
 - 🔭 I just opened my [dev.to][website] profile!
 - 📚 I'm currently learning lot of things 🤣
 - 🥅 2022 Goals: Contribute in a lot of projects and be more independant
 - ⚡ Fun fact: I'm a big fan of card games and keyboards
 
-### Connect with me:
+<img alt="gif" src="https://github.com/lbAntoine/lbAntoine/blob/master/exampleui.gif?raw=true" />
 
-[<img align="left" alt="dev.to/tomatowizard" width="22px" src="https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" />][website]
-[<img align="left" alt="lbAntoine | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536424.png?token=exp=1635191822~hmac=6056e65dd4411e8e954346f714481972" />][twitter]
-[<img align="left" alt="lbAntoine | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1635191790~hmac=378905ed497a251d9346901d8b4517cd" />][linkedin]
+### **Languages and Tools**:
 
-<br>
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Vuejs" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/langfr-220px-Vue.js_Logo_2.svg.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Python" width="26px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />
-<img align="left" alt="MySQL" width="26px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" />
-<img align="left" alt="Adobe Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" />
+<code><img align="left" alt="Visual Studio Code" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+<code><img align="left" alt="HTML5" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img align="left" alt="CSS3" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
+<code><img align="left" alt="Sass" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>
+<code><img align="left" alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+<code><img align="left" alt="Typescript" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" /></code>
+<code><img align="left" alt="Vuejs" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/langfr-220px-Vue.js_Logo_2.svg.png" /></code>
+<code><img align="left" alt="Node.js" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
+<code><img align="left" alt="Python" width="20px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" /></code>
+<code><img align="left" alt="MySQL" width="20px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" /></code>
+<code><img align="left" alt="MongoDB" width="20px" src="https://img.icons8.com/color/452/mongodb.png" /></code>
+<code><img align="left" alt="Git" width="20px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" /></code>
+<code><img align="left" alt="GitHub" width="20px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
+<code><img align="left" alt="Terminal" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
+<code><img align="left" alt="Adobe XD" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" /></code>
+<code><img align="left" alt="Adobe Photoshop" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" /></code>
 
 
 <br>
@@ -136,18 +136,10 @@ SCSS                     1 repo              ███░░░░░░░░�
 </details>
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lbAntoine&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="lbantoine" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lbantoine&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="lbantoine" /></p>
+  <img align="left" width="350px" height="100%" src="https://github-readme-stats.vercel.app/api?username=lbAntoine&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="lbantoine" />
+  <img align="right" width="340px" src="https://github-readme-stats.vercel.app/api/top-langs?username=lbantoine&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="lbantoine" />
 
 </details>
 
