@@ -3,11 +3,13 @@
 
 ### **Connect with me**:
 
-[<img align="left" alt="lbAntoine | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536424.png?token=exp=1635191822~hmac=6056e65dd4411e8e954346f714481972" />][twitter]
-[<img align="left" alt="lbAntoine | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1635191790~hmac=378905ed497a251d9346901d8b4517cd" />][linkedin]
+[<img align="left" alt="lbAntoine | Twitter" width="28px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536424.png?token=exp=1635191822~hmac=6056e65dd4411e8e954346f714481972" />][twitter]
+[<img align="left" alt="lbAntoine | LinkedIn" width="28px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1635191790~hmac=378905ed497a251d9346901d8b4517cd" />][linkedin]
 <a href="https://dev.to/tomatowizard" target="_blank"><img alt="dev.to" src="https://img.shields.io/badge/MY%20DEV.TO%20PAGE-GO-green?style=for-the-badge&logo=dev.to" /></a>
 
 <br>
+
+<img alt="gif" align="right" src="https://github.com/lbAntoine/lbAntoine/blob/master/exampleui.gif?raw=true" width="55%" />
 
 ## **I'm a junior web developer, tech enthousiast and art lover!**
 
@@ -15,8 +17,6 @@
 - 📚 I'm currently learning lot of things 🤣
 - 🥅 2022 Goals: Contribute in a lot of projects and be more independant
 - ⚡ Fun fact: I'm a big fan of card games and keyboards
-
-<img alt="gif" src="https://github.com/lbAntoine/lbAntoine/blob/master/exampleui.gif?raw=true" />
 
 ### **Languages and Tools**:
 
@@ -52,10 +52,6 @@
 ➡️ [more blog posts...](website)
 
 ---
-
-<details>
-  <summary>:zap: Developer Stats </summary>
-
   <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
