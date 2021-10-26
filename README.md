@@ -54,6 +54,14 @@
 ---
 
 <details>
+  <summary>:zap: Developer Stats </summary>
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
+</details>
+
+<details>
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
