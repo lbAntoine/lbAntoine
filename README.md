@@ -1,6 +1,6 @@
 ### Hi bonjour, I'm [Antoine][website] 👋
 
-[![Website](https://img.shields.io/website?label=dev.to/tomatowizard&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](website)
+[![Website](https://img.shields.io/website?label=dev.to/tomatowizard&style=for-the-badge&url=https://dev.to/tomatowizard)](website)
 
 ## I'm a junior web developer, tech enthousiast and art lover!
 
