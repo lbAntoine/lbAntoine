@@ -1,6 +1,8 @@
 ### Hi bonjour, I'm [Antoine][website] 👋
+<br>
+<a href="https://dev.to/tomatowizard" target="_blank"><img alt="dev.to" src="https://img.shields.io/badge/MY%20DEV.TO%20PAGE-GO-green?style=for-the-badge&logo=dev.to" /></a>
 
-[![Website](https://img.shields.io/website?label=MY%20DEV.TO%20PAGE&style=for-the-badge&url=dev.to%2Ftomatowizard)](website)
+<br>
 
 ## I'm a junior web developer, tech enthousiast and art lover!
 
