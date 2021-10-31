@@ -66,6 +66,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My Dev's Life Story #1 (Part 1) | My introduction to code](https://dev.to/tomatowizard/my-devs-life-story-1-part-1-my-introduction-to-code-gf7)
 - [Little introduction](https://dev.to/tomatowizard/little-introduction-2909)
 <!-- BLOG-POST-LIST:END -->
 
