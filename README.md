@@ -74,8 +74,6 @@
 
 ---
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%207%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -108,7 +106,7 @@ Windows                  9 hrs 7 mins        ███████████�
 ```
 
 
- Last Updated on 15/12/2021
+ Last Updated on 16/12/2021
 <!--END_SECTION:waka-->
 
 </details>
