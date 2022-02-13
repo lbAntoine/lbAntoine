@@ -91,20 +91,18 @@
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               15 mins             █████████████████░░░░░░░░   67.7% 
-PHP                      4 mins              █████░░░░░░░░░░░░░░░░░░░░   22.05% 
-JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.25%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 12/02/2022 00:38:12 UTC
+ Last Updated on 13/02/2022 00:39:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
