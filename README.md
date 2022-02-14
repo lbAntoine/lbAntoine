@@ -91,18 +91,21 @@
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   3 hrs 48 mins       █████████████░░░░░░░░░░░░   54.67% 
+TypeScript               2 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   43.01% 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 hrs 57 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 hrs 57 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 13/02/2022 00:39:01 UTC
+ Last Updated on 14/02/2022 00:34:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
