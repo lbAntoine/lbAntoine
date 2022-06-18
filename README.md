@@ -1,78 +1,78 @@
-### Hi bonjour, I'm [Antoine][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-
-### **Connect with me**:
-
-[<img align="left" alt="lbAntoine | Twitter" width="28px" src="https://image.flaticon.com/icons/png/512/60/60580.png" />][twitter]
-[<img align="left" alt="lbAntoine | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/61/61109.png" />][linkedin]
-<a href="https://dev.to/tomatowizard" target="_blank"><img alt="dev.to" src="https://img.shields.io/badge/MY%20DEV.TO%20PAGE-GO-green?style=for-the-badge&logo=dev.to" /></a>
-
-<br>
-
-<img alt="gif" align="right" src="https://github.com/lbAntoine/lbAntoine/blob/master/exampleui.gif?raw=true" width="55%" />
+### Hi bonjour, I'm Antoine <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 25px;">
 
 ## **I'm a junior web developer, tech enthousiast and art lover!**
 
-- 🔭 I just opened my [dev.to][website] profile!
-- 📚 I'm currently learning lot of things 🤣
-- 🥅 2022 Goals: Contribute in a lot of projects and be more independant
-- ⚡ Fun fact: I'm a big fan of card games and keyboards
+<img alt="gif" src="https://github.com/lbAntoine/lbAntoine/blob/master/exampleui.gif?raw=true" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
 
-### **Languages and Tools**:
 
-<p>
-  <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-</p>
+<table style="width: 960px;">
+  <thead>
+    <th style="text-align: center; width: 50%;">More about me</th>
+    <th style="text-align: center; width: 50%;">Tech I use</th>
+  </thead>
+  <tbody>
+    <th>
+      <p>- 📚 I'm currently learning lot of things 🤣</p>
+      <p>- 🥅 2022 Goals: Contribute in a lot of projects and be more independant</p>
+      <p>- ⚡ Fun fact: I'm a big fan of card games and keyboards</p>
+    </th>
+    <th>
+      <div style="display: flex; flex-wrap: wrap;">
+        <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
+          <img align="left" alt="Vuejs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
+        </p>
+        <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
+          <img align="left" alt="Vuejs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/langfr-220px-Vue.js_Logo_2.svg.png" />
+        </p>
+        <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
+          <img align="left" alt="React" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" />
+        </p>
+        <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
+          <img align="left" alt="Vuejs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/langfr-220px-Electron_Software_Framework_Logo.svg.png" />
+        </p>
+        <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
+          <img align="left" alt="Vuejs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
+        </p>
+        <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
+          <img align="left" alt="Vuejs" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+        </p>
+        <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
+          <img align="left" alt="Vuejs" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+        </p>
+        <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
+          <img align="left" alt="Vuejs" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+        </p>
+        <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
+          <img align="left" alt="Vuejs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/langfr-220px-Angular_full_color_logo.svg.png" />
+        </p>
+        <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
+          <img align="left" alt="Vuejs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/131px-PHP-logo.svg.png" />
+        </p>
+        <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
+          <img align="left" alt="Vuejs" width="30px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />
+        </p>
+        <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
+          <img align="left" alt="Vuejs" width="30px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" />
+        </p>
+        <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
+          <img align="left" alt="Vuejs" width="30px" src="https://img.icons8.com/color/452/mongodb.png" />
+        </p>
+        <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
+          <img align="left" alt="Vuejs" width="30px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
+        </p>
+        <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
+          <img align="left" alt="Vuejs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" />
+        </p>
+        <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
+          <img align="left" alt="Vuejs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" />
+        </p>
+      </div>
+    </th>
+  </tbody>
+</table>
 
 <br>
-<br>
 
-<p>
-  <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img align="left" alt="Typescript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
-  <img align="left" alt="Vuejs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/langfr-220px-Vue.js_Logo_2.svg.png" />
-  <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-</p>
-
-<br>
-<br>
-
-<p>
-  <img align="left" alt="Python" width="30px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />
-  <img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" />
-  <img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/452/mongodb.png" />
-  <img align="left" alt="Git" width="30px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
-</p>
-
-<br>
-<br>
-
-<p>
-  <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-  <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-  <img align="left" alt="Adobe XD" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" />
-  <img align="left" alt="Adobe Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" />
-</p>
-
-
-<br>
-<br>
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [My Dev's Life Story #1 (Part 1) | My introduction to code](https://dev.to/tomatowizard/my-devs-life-story-1-part-1-my-introduction-to-code-gf7)
-- [Little introduction](https://dev.to/tomatowizard/little-introduction-2909)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](website)
-
----
   <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -119,12 +119,7 @@ Windows                  27 hrs 10 mins      ███████████�
 
 </details>
 
-[website]: https://dev.to/tomatowizard
+<!-- [website]: https://lbAntoine.fr/ -->
 [twitter]: https://twitter.com/tomato_wizard
 [linkedin]: https://www.linkedin.com/in/antoine-le-bras/
 [github]: https://github.com/lbAntoine
-
-
-<!-- [instagram]:
-
-Hi bonjour, I'm Antoine (aka tomatoWizard) 👋 I'm a french junior developer! I got on the developer train in 2021, so that makes me still very new. I'm going to try to post regularly about my journey, learning how to become a better developer. Don't hesitate to come by and say hi 😊 -->
