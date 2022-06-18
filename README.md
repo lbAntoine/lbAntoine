@@ -109,8 +109,6 @@ Windows                  27 hrs 10 mins      ███████████�
  Last Updated on 02/11/2021
 <!--END_SECTION:waka-->
 
-</details>
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
