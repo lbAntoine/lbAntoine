@@ -5,7 +5,7 @@
 <img alt="gif" src="https://github.com/lbAntoine/lbAntoine/blob/master/exampleui.gif?raw=true" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
 
 
-<table style="width: 960px;">
+<table style="width: 1300px;">
   <thead>
     <th style="text-align: center; width: 50%;">More about me</th>
     <th style="text-align: center; width: 50%;">Tech I use</th>
