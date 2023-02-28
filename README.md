@@ -1,11 +1,22 @@
 ### Hi bonjour, I'm Antoine <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 25px;">
 
-## **I'm a junior web developer, tech enthousiast and art lover!**
+<div style="display: flex;">
+  <div>
 
-<img alt="gif" src="https://github.com/lbAntoine/lbAntoine/blob/master/exampleui.gif?raw=true" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
+  ## **I'm a french junior full-stack developer, tech enthousiast and art lover!**
+
+  I started my journey in 2021 and I am still having a lot of fun learning everyday on my own or from my seniors.
+
+  I like working on exciting stuff and I am looking to contribute more to open source projects in the hope of setting a better environnement for the future and then myself help future juniors.
+  </div>
+
+  <img alt="gif" src="https://github.com/lbAntoine/lbAntoine/blob/master/exampleui.gif?raw=true" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
+</div>
 
 
-<table style="width: 960px;">
+
+
+<table style="width: 100%;">
   <thead>
     <th style="text-align: center; width: 50%;">More about me</th>
     <th style="text-align: center; width: 50%;">Tech I use</th>
@@ -13,7 +24,7 @@
   <tbody>
     <th>
       <p>- 📚 I'm currently learning lot of things 🤣</p>
-      <p>- 🥅 2022 Goals: Contribute in a lot of projects and be more independant</p>
+      <p>- 🥅 2024 Goals: Contribute to a lot of projects, meet inspiring people and be more independant</p>
       <p>- ⚡ Fun fact: I'm a big fan of card games and keyboards</p>
     </th>
     <th>
@@ -52,19 +63,25 @@
           <img align="left" alt="Vuejs" width="30px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />
         </p>
         <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
+          <img align="left" alt="Fastapi" width="30px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />
+        </p>
+        <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
           <img align="left" alt="Vuejs" width="30px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" />
         </p>
         <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
           <img align="left" alt="Vuejs" width="30px" src="https://img.icons8.com/color/452/mongodb.png" />
         </p>
         <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
+          <img align="left" alt="Postgres" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
+        </p>
+        <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
           <img align="left" alt="Vuejs" width="30px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
         </p>
         <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
-          <img align="left" alt="Vuejs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" />
+          <img align="left" alt="Docker" width="30px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />
         </p>
         <p style="margin-right: 10px;height: 45px; width: 45px; background-color: #4e4e50; border-radius: 1em; display: flex; align-items: center; justify-content: center;">
-          <img align="left" alt="Vuejs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" />
+          <img align="left" alt="Neovim" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" />
         </p>
       </div>
     </th>
@@ -73,41 +90,6 @@
 
 <br>
 
-  <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    15 commits     ██████████░░░░░░░░░░░░░░░   41.67% 
-🌃 Evening    15 commits     ██████████░░░░░░░░░░░░░░░   41.67% 
-🌙 Night      6 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-TypeScript               14 hrs 37 mins      █████████████░░░░░░░░░░░░   53.84% 
-Vue.js                   4 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.3% 
-Markdown                 4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.24% 
-SCSS                     1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.06% 
-YAML                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81%
-
-🔥 Editors: 
-VS Code                  27 hrs 10 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  27 hrs 10 mins      █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 02/11/2021
-<!--END_SECTION:waka-->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
