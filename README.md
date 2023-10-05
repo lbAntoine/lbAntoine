@@ -33,7 +33,7 @@ const antoine = {
     },
     devOps: ["Docker", "AWS", "Github Actions", "Nginx", "Apache"],
     databases: ["mongodb", "MySQL", "Postgresql"],
-    misc: ["neovim", "arch linux", "wsl", "obsidian"]
+    misc: ["neovim", "arch linux", "void linux", "wsl", "obsidian"]
   },
   architecture: ["Progressive web app", "Single page application"],
   currentFocus: "Currently working for ExpertNet Technologies in France",
