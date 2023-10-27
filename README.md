@@ -1,6 +1,6 @@
 ### Hi bonjour, I'm Antoine <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 25px;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antoine-le-bras) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tomato_wizard) [![](https://visitcount.itsvg.in/api?id=lbAntoine&icon=0&color=0)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antoine-le-bras) [![](https://visitcount.itsvg.in/api?id=lbAntoine&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## **I'm a french junior full-stack developer, tech enthousiast and art lover!**
 
