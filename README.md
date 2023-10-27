@@ -16,9 +16,8 @@ Type this in your console or terminal to connect with me 👆 You can find this 
 
 ```typescript
 const antoine = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Typescript", "Java", "PHP", "Python"],
   askMeAbout: ["Web dev", "tech", "keyboards", "mtg"],
+  code: ["Javascript", "Typescript", "Java", "PHP", "Python"],
   technologies: {
     backend: {
       js: ["node", "Express"],
