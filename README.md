@@ -36,14 +36,14 @@ const antoine = {
     misc: ["neovim", "arch linux", "void linux", "wsl", "obsidian"]
   },
   architecture: ["Progressive web app", "Single page application"],
-  currentFocus: "Currently working for ExpertNet Technologies in France",
-  lookingToTheFuture: "I'm currently looking for a new company for the next year and wish to collaborate on open source projects",
+  currentFocus: "Currently working for Inetum Software in France",
+  lookingToTheFuture: "I'm open to collaborate on any fun project and wish to contribute more to open source projects",
   funFact: "I'm a big fan of card games and keyboards (and gundam)"
 }
 ```
 
 ---
 
-## 💰 You can support me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lbAntoine) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lbAntoine) 
+<!--- ## 💰 You can support me by Donating [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lbAntoine) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lbAntoine)
+--->
   
