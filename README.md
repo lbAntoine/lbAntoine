@@ -17,13 +17,14 @@ Type this in your console or terminal to connect with me 👆 You can find this 
 ```typescript
 const antoine = {
   askMeAbout: ["Web dev", "tech", "keyboards", "mtg"],
-  code: ["Rust", "Typescript", "Javascript", "Java", "PHP", "Python"],
+  code: ["Rust", "Golang", "Typescript", "Javascript", "Java", "PHP", "Python"],
   technologies: {
     backend: {
       js: ["node", "Express"],
-      rust: ["rocket"],
-      python: ["fastapi"],
-      java: ["Quarkus"]
+      rust: ["rocket", "actix"],
+      golang: ["charm stack"],
+      python: ["fastapi", "pandas", "numpy"],
+      java: ["Quarkus", "Srpingboot"]
     },
     frontend: {
       js: ["React", "Next.js", "Vuejs"]
@@ -35,7 +36,7 @@ const antoine = {
     databases: ["mongodb", "MySQL", "Postgresql", "Gun"],
     misc: ["neovim", "fedora", "obsidian"]
   },
-  architecture: ["Progressive web app", "Decentralized Application"],
+  architecture: ["Progressive web app", "Decentralized Application", "SSH app"],
   currentFocus: "Currently working for Inetum Software in France",
   lookingToTheFuture: "I'm open to collaborate on any fun project and wish to contribute more to open source projects",
   funFact: "I'm a big fan of card games and keyboards (and gundam)"
